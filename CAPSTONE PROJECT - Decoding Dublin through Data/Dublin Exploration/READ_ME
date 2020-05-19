@@ -1,6 +1,7 @@
 DUBLIN EXPLORATION
 
-This is the first entry of the 'Decoding Dublin through Data' Capstone project.
+This is the first entry of the 'Decoding Dublin through Data' Capstone project. The analysis compares areas in Dublin, Ireland
+and Morningside, Johannesburg to find areas that are most similar.
 
 DATA:
 - 'Dublin.xlsx' : This is the list of Areas in Dublin and Johannesburg used for analysis in the 'dublinexploration.ipynb'
