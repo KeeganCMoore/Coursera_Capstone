@@ -1,1 +1,9 @@
+DUBLIN HOUSING ANALYSIS
 
+This is part 3 of the 'Decoding Dublin through Data' capstone project and explores the Pubs in the various places in Dublin
+and looks for the top 10 pubs by 'Likes', and the top 5 areas by average number of 'Likes' for all Pubs
+
+DATA:
+- 'DublinAreas10-.xlsx' : This is the list of areas within 10 Kms of the Dublin city centre, as created in part 1 (Dublin Exploration)
+- 'Pub_Data_Likes': During the analysis the 'Likes' are scraped from the Foursquare API. For convenience sake I have included this 
+data for quick access 
