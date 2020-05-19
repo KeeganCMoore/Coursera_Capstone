@@ -1,0 +1,10 @@
+DUBLIN HOUSE PRICING ANALYSIS
+
+This is the second entry in the 'Decoding Dublin through Data' Capstone project and analyses the pricing of property around Dublin, 
+including the avreage prices per area.
+
+DATA:
+- 'Dublin_House_Price_PSRA.xlsx' : This is the the publicly available housing data published by the PSRA on 
+https://data.gov.ie/dataset/property-price-register but has been neatened and filtered for my analysis
+- 'Lat_Long.xlsx' : This is the matching Latitudes and Longitudes for the Dublin house pricing data. It has been included for simplicity
+as Geocoding every address for > 3000 properties will take a substantial amount of time and often times out.
